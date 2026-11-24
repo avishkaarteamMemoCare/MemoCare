@@ -1,0 +1,317 @@
+[
+  {
+    "section": "Medical Doctors",
+    "name": "Dr. Arjun Mehta",
+    "email": "dr.arjun.mehta@memocare.dev",
+    "role": "Doctor (active)",
+    "extra": "Neurologist"
+  },
+  {
+    "section": "Medical Doctors",
+    "name": "Dr. Kavita Iyer",
+    "email": "dr.kavita.iyer@memocare.dev",
+    "role": "Doctor (active)",
+    "extra": "Geriatric Psychiatrist"
+  },
+  {
+    "section": "Medical Doctors",
+    "name": "Dr. Rohan Deshpande",
+    "email": "dr.rohan.deshpande@memocare.dev",
+    "role": "Doctor (active)",
+    "extra": "Geriatrician"
+  },
+  {
+    "section": "Medical Doctors",
+    "name": "Dr. Sneha Kulkarni",
+    "email": "dr.sneha.kulkarni@memocare.dev",
+    "role": "Doctor (active)",
+    "extra": "Neuropsychologist"
+  },
+  {
+    "section": "Medical Doctors",
+    "name": "Dr. Vikram Nair",
+    "email": "dr.vikram.nair@memocare.dev",
+    "role": "Doctor (active)",
+    "extra": "Neurologist"
+  },
+  {
+    "section": "Medical Doctors",
+    "name": "Dr. Anjali Sharma",
+    "email": "dr.anjali.sharma@memocare.dev",
+    "role": "Doctor (active)",
+    "extra": "Geriatric Medicine Specialist"
+  },
+  {
+    "section": "Medical Doctors",
+    "name": "Dr. Sameer Joshi",
+    "email": "dr.sameer.joshi@memocare.dev",
+    "role": "Doctor (active)",
+    "extra": "Psychiatrist"
+  },
+  {
+    "section": "Medical Doctors",
+    "name": "Dr. Neha Bhatt",
+    "email": "dr.neha.bhatt@memocare.dev",
+    "role": "Doctor (active)",
+    "extra": "Cognitive Neurologist"
+  },
+  {
+    "section": "Medical Doctors",
+    "name": "Dr. Aditya Rane",
+    "email": "dr.aditya.rane@memocare.dev",
+    "role": "Doctor (active)",
+    "extra": "Internal Medicine Specialist"
+  },
+  {
+    "section": "Medical Doctors",
+    "name": "Dr. Pooja Menon",
+    "email": "dr.pooja.menon@memocare.dev",
+    "role": "Doctor (active)",
+    "extra": "Geriatric Psychiatrist"
+  },
+  {
+    "section": "Staff Approvals (pending)",
+    "name": "Dr. Harish Pillai",
+    "email": "dr.harish.pillai@memocare.dev",
+    "role": "Doctor (awaiting approval)",
+    "extra": "Neurologist"
+  },
+  {
+    "section": "Staff Approvals (pending)",
+    "name": "Dr. Meera Chavan",
+    "email": "dr.meera.chavan@memocare.dev",
+    "role": "Doctor (awaiting approval)",
+    "extra": "Geriatric Psychiatrist"
+  },
+  {
+    "section": "Staff Approvals (pending)",
+    "name": "Dr. Karan Shetty",
+    "email": "dr.karan.shetty@memocare.dev",
+    "role": "Doctor (awaiting approval)",
+    "extra": "Neuropsychologist"
+  },
+  {
+    "section": "Staff Approvals (pending)",
+    "name": "Dr. Shruti Kamble",
+    "email": "dr.shruti.kamble@memocare.dev",
+    "role": "Doctor (awaiting approval)",
+    "extra": "Geriatrician"
+  },
+  {
+    "section": "Staff Approvals (pending)",
+    "name": "Dr. Nikhil Verghese",
+    "email": "dr.nikhil.verghese@memocare.dev",
+    "role": "Doctor (awaiting approval)",
+    "extra": "Psychiatrist"
+  },
+  {
+    "section": "Caretakers",
+    "name": "Seema Patil",
+    "email": "caretaker.seema.patil@memocare.dev",
+    "role": "Caretaker",
+    "extra": "7 yrs experience"
+  },
+  {
+    "section": "Caretakers",
+    "name": "Ramesh Pawar",
+    "email": "caretaker.ramesh.pawar@memocare.dev",
+    "role": "Caretaker",
+    "extra": "5 yrs experience"
+  },
+  {
+    "section": "Caretakers",
+    "name": "Lata Gaikwad",
+    "email": "caretaker.lata.gaikwad@memocare.dev",
+    "role": "Caretaker",
+    "extra": "9 yrs experience"
+  },
+  {
+    "section": "Caretakers",
+    "name": "Sunil More",
+    "email": "caretaker.sunil.more@memocare.dev",
+    "role": "Caretaker",
+    "extra": "4 yrs experience"
+  },
+  {
+    "section": "Caretakers",
+    "name": "Vaishali Bhosale",
+    "email": "caretaker.vaishali.bhosale@memocare.dev",
+    "role": "Caretaker",
+    "extra": "6 yrs experience"
+  },
+  {
+    "section": "Caretakers",
+    "name": "Prakash Jadhav",
+    "email": "caretaker.prakash.jadhav@memocare.dev",
+    "role": "Caretaker",
+    "extra": "12 yrs experience"
+  },
+  {
+    "section": "Caretakers",
+    "name": "Anita Sawant",
+    "email": "caretaker.anita.sawant@memocare.dev",
+    "role": "Caretaker",
+    "extra": "8 yrs experience"
+  },
+  {
+    "section": "Caretakers",
+    "name": "Deepak Thakur",
+    "email": "caretaker.deepak.thakur@memocare.dev",
+    "role": "Caretaker",
+    "extra": "3 yrs experience"
+  },
+  {
+    "section": "Caretakers",
+    "name": "Manisha Kadam",
+    "email": "caretaker.manisha.kadam@memocare.dev",
+    "role": "Caretaker",
+    "extra": "10 yrs experience"
+  },
+  {
+    "section": "Caretakers",
+    "name": "Santosh Shinde",
+    "email": "caretaker.santosh.shinde@memocare.dev",
+    "role": "Caretaker",
+    "extra": "6 yrs experience"
+  },
+  {
+    "section": "Family Members",
+    "name": "Rohan Deshpande",
+    "email": "family.rohan.deshpande@memocare.dev",
+    "role": "Family member",
+    "extra": "Linked to Shantaram Patil"
+  },
+  {
+    "section": "Family Members",
+    "name": "Priya Kulkarni",
+    "email": "family.priya.kulkarni@memocare.dev",
+    "role": "Family member",
+    "extra": "Linked to Kamlabai Joshi"
+  },
+  {
+    "section": "Family Members",
+    "name": "Amit Sharma",
+    "email": "family.amit.sharma@memocare.dev",
+    "role": "Family member",
+    "extra": "Linked to Ramchandra Iyer"
+  },
+  {
+    "section": "Family Members",
+    "name": "Neeta Joshi",
+    "email": "family.neeta.joshi@memocare.dev",
+    "role": "Family member",
+    "extra": "Linked to Saraswati Nair"
+  },
+  {
+    "section": "Family Members",
+    "name": "Sandeep Rao",
+    "email": "family.sandeep.rao@memocare.dev",
+    "role": "Family member",
+    "extra": "Linked to Vinayak Deshmukh"
+  },
+  {
+    "section": "Family Members",
+    "name": "Kavya Nair",
+    "email": "family.kavya.nair@memocare.dev",
+    "role": "Family member",
+    "extra": "Linked to Sulochana Kulkarni"
+  },
+  {
+    "section": "Family Members",
+    "name": "Rajesh Menon",
+    "email": "family.rajesh.menon@memocare.dev",
+    "role": "Family member",
+    "extra": "Linked to Bhaskar Rao"
+  },
+  {
+    "section": "Family Members",
+    "name": "Shweta Iyer",
+    "email": "family.shweta.iyer@memocare.dev",
+    "role": "Family member",
+    "extra": "Linked to Indira Menon"
+  },
+  {
+    "section": "Family Members",
+    "name": "Vivek Bhatt",
+    "email": "family.vivek.bhatt@memocare.dev",
+    "role": "Family member",
+    "extra": "Linked to Dattatray Shinde"
+  },
+  {
+    "section": "Family Members",
+    "name": "Aarti Rane",
+    "email": "family.aarti.rane@memocare.dev",
+    "role": "Family member",
+    "extra": "Linked to Prabhavati Chavan"
+  },
+  {
+    "section": "Family Members",
+    "name": "Manoj Chavan",
+    "email": "family.manoj.chavan@memocare.dev",
+    "role": "Family member",
+    "extra": "Linked to Mohan Kamat"
+  },
+  {
+    "section": "Family Members",
+    "name": "Pooja Shetty",
+    "email": "family.pooja.shetty@memocare.dev",
+    "role": "Family member",
+    "extra": "Linked to Vimal Bhosale"
+  },
+  {
+    "section": "Family Members",
+    "name": "Ajay Kamble",
+    "email": "family.ajay.kamble@memocare.dev",
+    "role": "Family member",
+    "extra": "Linked to Shankar Pawar"
+  },
+  {
+    "section": "Family Members",
+    "name": "Snehal Verghese",
+    "email": "family.snehal.verghese@memocare.dev",
+    "role": "Family member",
+    "extra": "Linked to Anusuya Sawant"
+  },
+  {
+    "section": "Family Members",
+    "name": "Rahul Pillai",
+    "email": "family.rahul.pillai@memocare.dev",
+    "role": "Family member",
+    "extra": "Linked to Krishnaji Bhagat"
+  },
+  {
+    "section": "Family Members",
+    "name": "Divya Mehta",
+    "email": "family.divya.mehta@memocare.dev",
+    "role": "Family member",
+    "extra": "Linked to Laxmibai Salvi"
+  },
+  {
+    "section": "Family Members",
+    "name": "Nitin Gaikwad",
+    "email": "family.nitin.gaikwad@memocare.dev",
+    "role": "Family member",
+    "extra": "Linked to Govind Naik"
+  },
+  {
+    "section": "Family Members",
+    "name": "Ashwini Pawar",
+    "email": "family.ashwini.pawar@memocare.dev",
+    "role": "Family member",
+    "extra": "Linked to Shobha Tendulkar"
+  },
+  {
+    "section": "Family Members",
+    "name": "Girish Sawant",
+    "email": "family.girish.sawant@memocare.dev",
+    "role": "Family member",
+    "extra": "Linked to Hari Wagh"
+  },
+  {
+    "section": "Family Members",
+    "name": "Trupti More",
+    "email": "family.trupti.more@memocare.dev",
+    "role": "Family member",
+    "extra": "Linked to Sushila Kadam"
+  }
+]

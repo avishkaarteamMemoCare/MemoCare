@@ -1,0 +1,20 @@
+{
+  "name": "memocare-fullstack",
+  "version": "1.0.0",
+  "description": "MemoCare - Dementia/Alzheimer's early detection and monitoring platform",
+  "scripts": {
+    "build:frontend": "npm run --prefix memocare-frontend build",
+    "build:backend": "npm run --prefix memocare-backend build",
+    "build": "npm run build:frontend && npm run build:backend",
+    "start": "node memocare-backend/dist/src/server.js",
+    "dev:backend": "npm run --prefix memocare-backend dev",
+    "dev:frontend": "npm run --prefix memocare-frontend dev",
+    "generate-secrets": "node memocare-backend/scripts/generate-env.mjs",
+    "online:localtunnel": "npx localtunnel --port 4000",
+    "online:cloudflared": "cloudflared tunnel --url http://localhost:4000"
+  },
+  "dependencies": {
+    "@neon/config": "^1.11.2",
+    "@neon/env": "^1.6.14"
+  }
+}
